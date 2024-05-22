@@ -3,15 +3,14 @@
 
 <div style="display: flex; flex-direction: row;">
   <div>
-    <video width="320" height="240" controls>
-      <source src="assets/portfolio_video.mp4" type="video/mp4">
-      Your browser does not support the video tag.
-    </video>
+  <p align="center">
+    <img src="assets/portfolio_video.gif" alt="Portfolio Video" width="320" height="240" />
+  </p>
   </div>
   <div style="display: flex; flex-direction: column;">
-    <p align="left">
-      <img src="https://komarev.com/ghpvc/?username=codevps&label=Profile%20views&color=0e75b6&style=flat" alt="codevps" />
-    </p>
+      <p align="left">
+        <img src="https://komarev.com/ghpvc/?username=codevps&label=Profile%20views&color=0e75b6&style=flat" alt="codevps" />
+      </p>
 
 - 🔭 I’m currently working on [Sora](https://github.com/Codevps/codevps_portfolio)
 
@@ -24,7 +23,7 @@
 - 📫 How to reach me **codevps07@gmail.com**
 
 - 📄 Know about my experiences [https://codevps-portfolio.vercel.app/](https://codevps-portfolio.vercel.app/)
-</div>
+  </div>
 </div>
 
 <h3 align="left">Connect with me:</h3>
