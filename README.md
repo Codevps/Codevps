@@ -2,11 +2,9 @@
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
 <div style="display: flex; flex-direction: row;">
-  <div>
-  <p align="center" >
-    <img style="border-radius:6px;" src="assets/portfolio_video.gif" alt="Portfolio Video" height="240" />
+  <p align="center">
+    <img src="assets/portfolio_video.gif" alt="Portfolio Video" height="240"/>
   </p>
-  </div>
   <div style="display: flex; flex-direction: column;">
       <p align="left">
         <img src="https://komarev.com/ghpvc/?username=codevps&label=Profile%20views&color=0e75b6&style=flat" alt="codevps" />
