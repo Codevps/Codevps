@@ -3,7 +3,7 @@
 
 <div style="display: flex; flex-direction: row;">
   <div>
-  <p align="center">
+  <p align="center" style="border-radius:6px;">
     <img src="assets/portfolio_video.gif" alt="Portfolio Video" height="240" />
   </p>
   </div>
