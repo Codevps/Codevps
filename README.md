@@ -4,7 +4,7 @@
 <div style="display: flex; flex-direction: row;">
   <div>
   <p align="center">
-    <img src="assets/portfolio_video.gif" alt="Portfolio Video" width="320" height="240" />
+    <img src="assets/portfolio_video.gif" alt="Portfolio Video" height="240" />
   </p>
   </div>
   <div style="display: flex; flex-direction: column;">
