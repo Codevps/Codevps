@@ -1,7 +1,17 @@
 <h1 align="center">Hi 👋, I'm Pratham Sawant (Codevps)</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=codevps&label=Profile%20views&color=0e75b6&style=flat" alt="codevps" /> </p>
+<div style="display: flex; flex-direction: row;">
+  <div>
+    <video width="320" height="240" controls>
+      <source src="assets/portfolio_video.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+  </div>
+  <div style="display: flex; flex-direction: column;">
+    <p align="left">
+      <img src="https://komarev.com/ghpvc/?username=codevps&label=Profile%20views&color=0e75b6&style=flat" alt="codevps" />
+    </p>
 
 - 🔭 I’m currently working on [Sora](https://github.com/Codevps/codevps_portfolio)
 
@@ -14,6 +24,8 @@
 - 📫 How to reach me **codevps07@gmail.com**
 
 - 📄 Know about my experiences [https://codevps-portfolio.vercel.app/](https://codevps-portfolio.vercel.app/)
+</div>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
