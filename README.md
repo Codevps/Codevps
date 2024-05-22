@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pratham Sawant (Codevps)</h1>
+<h1 align="center">Hi there 👋, I'm Pratham Sawant (Codevps)</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
 <div style="display: flex; flex-direction: row;">
